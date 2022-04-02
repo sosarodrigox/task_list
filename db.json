@@ -21,7 +21,13 @@
         {
             "id": 4,
             "text": "Read a book",
-            "day":"ng",
+            "day":"July 19 - 18: 00",
+            "reminder": false
+        },
+        {
+            "id": 5,
+            "text": "Be Happy",
+            "day":"All the time",
             "reminder": true
         }
     ]
