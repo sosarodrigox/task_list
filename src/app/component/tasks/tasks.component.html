@@ -1,3 +1,6 @@
-<p *ngFor="let task of task">
+<app-task-item 
+*ngFor="let task of task"
+[task] = "task"
+>
     {{task.text}}
-</p>
+</app-task-item>
