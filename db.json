@@ -10,13 +10,25 @@
       "id": 2,
       "text": "Buy a headphones",
       "day": "April 4 - 13: 00",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 4,
       "text": "Read a book",
       "day": "July 19 - 18: 00",
-      "reminder": false
+      "reminder": true
+    },
+    {
+      "text": "eee",
+      "day": "eeeeee",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "equilibrio EQUILIBRIO",
+      "day": "eeeeee",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
